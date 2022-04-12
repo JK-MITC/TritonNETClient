@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TritonNETClient", "TritonNETClient.csproj", "{130B25D8-915F-4B23-BE57-B83517A112CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{130B25D8-915F-4B23-BE57-B83517A112CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130B25D8-915F-4B23-BE57-B83517A112CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130B25D8-915F-4B23-BE57-B83517A112CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130B25D8-915F-4B23-BE57-B83517A112CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8936401A-DE3B-4E28-87D1-4E78E8C18AFB}
+	EndGlobalSection
+EndGlobal
